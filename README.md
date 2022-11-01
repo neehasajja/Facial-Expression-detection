@@ -1,1 +1,2 @@
 # Facial-Expression-detection
+Emotion Recognition is a project where the code is used to know whether the person is sad, happy, angry and any others. In here Web camera of the computer is used for identifying the expressions in Real-time. This is a three step process, the XML file detecting the presence of faces and then we retrain the network with the images on five different categories, Then the importing of the label_image.py program and set up everything in Realtime.
